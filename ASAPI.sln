@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASAPI", "ASAPI.csproj", "{DE23D230-33E9-40FD-87E5-09E2758FEE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE23D230-33E9-40FD-87E5-09E2758FEE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE23D230-33E9-40FD-87E5-09E2758FEE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE23D230-33E9-40FD-87E5-09E2758FEE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE23D230-33E9-40FD-87E5-09E2758FEE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD7FA588-104E-4C2F-95B2-46F38E904626}
+	EndGlobalSection
+EndGlobal

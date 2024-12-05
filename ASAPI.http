@@ -1,0 +1,6 @@
+@ASAPI_HostAddress = http://localhost:5232
+
+GET {{ASAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
